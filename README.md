@@ -6,5 +6,5 @@ The goal is to be the first player to win all 52 cards. The deck is divided even
 
 The game ends when one player has won all the cards. Or one of the players does not have enough cards to participate in the War.
 
-#What I learned
+# What I learned
 The logics of the game and how to translate them into Python code.
